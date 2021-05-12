@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>André Brandão</title>
-    <link>https://andrebrandao.me/</link>
-    <description>Recent content on André Brandão</description>
+    <title>Terminal on André Brandão</title>
+    <link>https://andrebrandao.me/tags/terminal/</link>
+    <description>Recent content in Terminal on André Brandão</description>
     <image>
       <url>https://andrebrandao.me/img/profile.jpg</url>
       <link>https://andrebrandao.me/img/profile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 May 2021 21:09:42 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 21:09:42 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal Setup with Zsh &#43; Tmux &#43; Dracula Theme</title>
       <link>https://andrebrandao.me/articles/terminal-setup-with-zsh-tmux-dracula-theme/</link>
@@ -19,17 +19,6 @@
       <guid>https://andrebrandao.me/articles/terminal-setup-with-zsh-tmux-dracula-theme/</guid>
       <description>I have just recently improved my terminal setup after learning how to use Tmux. It gave me a way to move faster between projects and even kept my session saved after machine shutdowns. My goal here is to help you configure a environment that will be both beautiful and functional. Let&amp;rsquo;s get to it.
 What we will set up Guake: top-down terminal that can be instantaneously opened with a keystroke.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://andrebrandao.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andrebrandao.me/about/</guid>
-      <description>Hi! 👋 My name is André Brandão and I&amp;rsquo;m a Software Engineer at Favo.
-I graduated in Computer Engineer at UNICAMP and developed an entrepreneurial mindset through life experimentation. Such experiments were being a partner in two companies, doing exchange programs, living in a fraternity, becoming president of the Fraternities &amp;amp; Sororities Association and also living one year in a sustainable ecovillage.
-In my free time I&amp;rsquo;m either going to the gym, reading books, taking technology courses or doing side projects.</description>
     </item>
     
   </channel>

@@ -1,1 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on André Brandão</title><link>https://andrebrandao.me/tags/</link><description>Recent content in Tags on André Brandão</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://andrebrandao.me/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on André Brandão</title>
+    <link>https://andrebrandao.me/tags/</link>
+    <description>Recent content in Tags on André Brandão</description>
+    <image>
+      <url>https://andrebrandao.me/img/profile.jpg</url>
+      <link>https://andrebrandao.me/img/profile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 10 May 2021 21:09:42 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dracula Theme</title>
+      <link>https://andrebrandao.me/tags/dracula-theme/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/dracula-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oh My Zsh</title>
+      <link>https://andrebrandao.me/tags/oh-my-zsh/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/oh-my-zsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerlevel10k</title>
+      <link>https://andrebrandao.me/tags/powerlevel10k/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/powerlevel10k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>https://andrebrandao.me/tags/terminal/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tmux</title>
+      <link>https://andrebrandao.me/tags/tmux/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/tmux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zsh</title>
+      <link>https://andrebrandao.me/tags/zsh/</link>
+      <pubDate>Mon, 10 May 2021 21:09:42 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/zsh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
