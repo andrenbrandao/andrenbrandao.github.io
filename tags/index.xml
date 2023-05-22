@@ -10,7 +10,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 May 2021 21:09:42 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 20:17:37 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JMeter</title>
+      <link>https://andrebrandao.me/tags/jmeter/</link>
+      <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/jmeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Testing</title>
+      <link>https://andrebrandao.me/tags/load-testing/</link>
+      <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/load-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://andrebrandao.me/tags/mongodb/</link>
+      <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://andrebrandao.me/tags/performance/</link>
+      <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling</title>
+      <link>https://andrebrandao.me/tags/profiling/</link>
+      <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
+      
+      <guid>https://andrebrandao.me/tags/profiling/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dracula Theme</title>
       <link>https://andrebrandao.me/tags/dracula-theme/</link>
