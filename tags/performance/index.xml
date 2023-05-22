@@ -13,10 +13,10 @@
     <lastBuildDate>Sun, 21 May 2023 20:17:37 -0300</lastBuildDate><atom:link href="https://andrebrandao.me/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Find Bottlenecks in MongoDB: Profiling and Load Testing Strategies with JMeter</title>
-      <link>https://andrebrandao.me/articles/how-to-find-bottlenecks-mongodb/</link>
+      <link>https://andrebrandao.me/articles/how-to-find-bottlenecks-in-mongodb/</link>
       <pubDate>Sun, 21 May 2023 20:17:37 -0300</pubDate>
       
-      <guid>https://andrebrandao.me/articles/how-to-find-bottlenecks-mongodb/</guid>
+      <guid>https://andrebrandao.me/articles/how-to-find-bottlenecks-in-mongodb/</guid>
       <description>Knowing how to find bottlenecks in your application is a valuable skill when trying to scale to thousands or even millions of users.</description>
     </item>
     
