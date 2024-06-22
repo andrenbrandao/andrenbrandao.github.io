@@ -37,9 +37,10 @@ What we will set up Guake: top-down terminal that can be instantaneously opened 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andrebrandao.me/about/</guid>
-      <description>Hi! 👋 My name is André Brandão and I&amp;rsquo;m a Software Engineer.
-I have a Bachelor&amp;rsquo;s Degree in Computer Engineering from UNICAMP (Brazil) and have worked with tech companies for 6+ years. Since then, I&amp;rsquo;ve been particularly interested in high-quality software, test-driven development and application performance.
-I also developed an entrepreneurial mindset through life experimentation. Some of these experiences were exchange programs, living in a fraternity, being a partner in two companies and living one year in a sustainable ecovillage.</description>
+      <description>Hi! 👋 I&amp;rsquo;m André Brandão and I&amp;rsquo;m a Software Engineer.
+During my 6+ years of experience I have worked with multiple tech companies, most being startups with a tech-stack of Node.js, TypeScript, PostgreSQL, DynamoDB, Serverless and many AWS services.
+My main interests are in Software Design, Refactoring and Test-Driven Development. I also have a Bachelor&amp;rsquo;s Degree in Computer Engineering from UNICAMP (Brazil).
+You can find me on LinkedIn and see my open-source code at GitHub .</description>
     </item>
     
   </channel>
